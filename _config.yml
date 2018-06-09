@@ -3,6 +3,8 @@ title: Kelvin Wahome
 description: 'Welcome to my personal blog'
 url: 'https://kwahome.github.io/'
 baseurl: '/kwahome'
+avatar: 'https://github.com/kwahome/kwahome.github.io/blob/master/images/profile.jpg'
+cover: 'https://github.com/kwahome/kwahome.github.io/blob/master/images/cover.jpg'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -40,4 +42,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
