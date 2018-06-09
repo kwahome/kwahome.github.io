@@ -1,0 +1,43 @@
+# Site settings
+title: Kelvin Wahome
+description: 'Welcome to my personal blog'
+url: 'https://kwahome.github.io/'
+baseurl: '/kwahome'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Kelvin Wahome'
+  email: kevowahome@gmail.com
+  twitter_username: kwahome_
+  facebook_username: iamwahome
+  github_username:  kwahome
+  linkedin_username:  kelvinwahome
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
