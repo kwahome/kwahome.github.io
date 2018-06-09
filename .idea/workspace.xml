@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdc29373-253e-4159-99de-03b8b7e27623" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-06-welcome-to-jekyll.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/a45c7867fde64b149137e6a0d0cd3a1b.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/african-landscape-sunset-sunset-by-chad-south-african-landscape-sunset.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/converse_shoes_photography_facebook_cover_1389423906.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-192x192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-36x36.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-48x48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-512x512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-72x72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/android-chrome-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-114x114.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-152x152.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-180x180.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-57x57.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-72x72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/browserconfig.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-194x194.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon.ico" afterPath="$PROJECT_DIR$/images/favicons/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-150x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-310x150.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-310x310.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/mstile-70x70.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/site.webmanifest" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pexels-photo-417142.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,8 +16,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="77" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+            <state relative-caret-position="60">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -163,12 +123,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528550023471</updated>
       <workItem from="1528550026207" duration="1886000" />
-      <workItem from="1528552241886" duration="3419000" />
+      <workItem from="1528552241886" duration="3512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5305000" />
+    <option name="totallyTimeSpent" value="5398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -552,8 +512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="77" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
       </provider>
