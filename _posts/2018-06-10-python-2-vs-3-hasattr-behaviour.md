@@ -75,7 +75,7 @@ It’s thus a much more truthful representation of the existence of an object.
 However, it’s impossible to distinguish an `AttributeError` from a missing attribute and an `AttributeError` that‘s as a result of a buggy attribute particularly if a property is involved.
 
 ### __Property attribute__
-Python has a concept called a <a href="https://docs.python.org/2.7/library/functions.html#hasattr" target="_blank" style="color:#3b5998">__property__</a> that can do several very useful things.
+Python has a concept called a <a href="https://docs.python.org/2.7/library/functions.html#property" target="_blank" style="color:#3b5998">__property__</a> that can do several very useful things.
 
 The property function, largely used with the `@decorator` syntax implements data encapsulation in Python classes.
 
